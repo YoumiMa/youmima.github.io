@@ -8,11 +8,8 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    
-    Open `_data/authors.yml` to edit this text.
+      Youmi Ma is an assistant professor at Okazaki Laboratory, Department of Computer Science, School of Computing, Institute of Science Tokyo. 
+      Her research interests include Machine Learning, Natural Language Processing, Konwledge Acquisition and Information Extraction.
 
   # This photo will be used in the about section
   picture:
@@ -28,7 +25,7 @@ author1:
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
     twitter:         Youmima1015
-    github:          <username>
+    github:          YoumiMa
     email:           <youmi.ma@nlp.c.titech.ac.jp>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
