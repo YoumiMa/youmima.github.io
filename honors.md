@@ -1,4 +1,6 @@
 ## Awards and Scholarships
++ 2025 \| **Excellence Paper Award of 2024 (2024年度論文賞)** 
+  + Journal of Natural Language Processing 
 + 2023 \| **Encouragement Award (奨励賞)**
   + In the 18th Symposium of Young Researcher Association for NLP Studies (NLP若手の会 (YANS) 第18回シンポジウム)
   + Awarded to the first author of outstanding presentations.

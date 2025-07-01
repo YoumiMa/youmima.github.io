@@ -1,15 +1,17 @@
 ## Publications
 
 ### International Conferences
++ Masahiro Kaneko*, **Youmi Ma\***, Yuki Wata, and Naoaki Okazaki. Sampling-based Pseudo-Likelihood for Membership Inference Attacks. In Findings of the Association for Computational Linguistics: ACL 2025 (ACL), pages (to appear), Vienna, Austria, July 2025 (*equal contribution).
 + **Youmi Ma**, An Wang, and Naoaki Okazaki. Building a Japanese Document-Level Relation Extraction Dataset Assisted by Cross-Lingual Transfer. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), pages 2567–2579, Torino, Italia, May 2024. 
-+ **Youmi Ma**, Bhushan Kotnis, Carolin Lawrance, Goran Glavaš, and Naoaki Okazaki. Improving Cross-Lingual Transfer for Open Information Extraction with Linguistic Feature Projection. In Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 125–138, Singapore, December 2023. (doi: 10.18653/v1/2023.mrl-1.11)
-+ An Wang, Junfeng Jiang, **Youmi Ma**, Ao Liu, and Naoaki Okazaki. Generative Data Augmentation for Aspect Sentiment Quad Prediction. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM), pages 128–140, Toronto, Canada, July 2023. (doi: 10.18653/v1/2023.starsem-1.12)
++ **Youmi Ma**, Bhushan Kotnis, Carolin Lawrance, Goran Glavaš, and Naoaki Okazaki. Improving Cross-Lingual Transfer for Open Information Extraction with Linguistic Feature Projection. In Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 125–138, Singapore, December 2023. 
++ An Wang, Junfeng Jiang, **Youmi Ma**, Ao Liu, and Naoaki Okazaki. Generative Data Augmentation for Aspect Sentiment Quad Prediction. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM), pages 128–140, Toronto, Canada, July 2023. 
 + **Youmi Ma**, An Wang, and Naoaki Okazaki. DREEAM: Guiding Attention with Evidence for Improving Document-Level Relation Extraction. In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume (EACL), pages 1971–1983, Dubrovnik, Croatia, May 2023.
 + Hsuan-Yu Kuo, **Youmi Ma**, and Naoaki Okazaki. Annotating Entity and Causal Relationships on Japanese Vehicle Recall Information. In Proceedings of the 36th Pacific Asia Conference on Language, Information and Computation (PACLIC), pages 783–791, Manila, Philippines, October 2022.
-+ **Youmi Ma**, Tatsuya Hiraoka, and Naoaki Okazaki. Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks. In Proceedings of the Sixth Workshop on Structured Prediction for NLP (SPNLP), pages 11–21, Dublin, Ireland, May 2022. (doi: 10.18653/v1/2022.spnlp-1.2)
-+ Zixia Jia, **Youmi Ma**, Jiong Cai, and Kewei Tu. Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), pages 6795–6805, Online, July 2020. (doi: 10.18653/v1/2020.acl-main.607)
++ **Youmi Ma**, Tatsuya Hiraoka, and Naoaki Okazaki. Joint Entity and Relation Extraction Based on Table Labeling Using Convolutional Neural Networks. In Proceedings of the Sixth Workshop on Structured Prediction for NLP (SPNLP), pages 11–21, Dublin, Ireland, May 2022. 
++ Zixia Jia, **Youmi Ma**, Jiong Cai, and Kewei Tu. Semi-Supervised Semantic Dependency Parsing Using CRF Autoencoders. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), pages 6795–6805, Online, July 2020. 
 
 ### Journal
++ An Wang, Huidong Jiang, **Youmi Ma**, Junfeng Jiang, Ao Liu, and Naoaki Okazaki. Improving Implicit Sentiments Analysis via Explanations of Multiple Perspectives. In IEEE Access, pages 61136 - 61148, 2025.
 + An Wang, Junfeng Jiang, **Youmi Ma**, Ao Liu, and Naoaki Okazaki. Generative Data Augmentation for Aspect Sentiment Quad Prediction. 自然言語処理, 31(4):to appear, December 2024.
 + **Youmi Ma**, An Wang, and 岡崎 直観. 文書レベル関係抽出における根拠認識の統合. 自然言語処理, 31(1):105–133, March 2024.
 + **Youmi Ma**, Tatsuya Hiraoka, and Naoaki Okazaki. Named Entity Recognition and Relation Extraction Using Enhanced Table Filling by Contextualized Representations. 自然言語処理, 29(1):187–223, March 2022. (doi: 10.5715/jnlp.29.187)
@@ -29,8 +31,10 @@
 
 
 ### Preprints
-+ Masahiro Kaneko, **Youmi Ma**, Yuki Wata, and Naoaki Okazaki. Sampling-based Pseudo-Likelihood for Membership Inference Attacks, 2024.
-+ **Youmi Ma**, Tatsuya Hiraoka, and Naoaki Okazaki. Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations, 2020.
++ Kazuki Fujii, Yukito Tajima, Sakae Mizuki, Hinari Shimada, Taihei Shiotani, Koshiro Saito, Masanari Ohi, Masaki Kawamura, Taishi Nakamura, Takumi Okamoto, Shigeki Ishida, Kakeru Hattori, **Youmi Ma**, Hiroya Takamura, Rio Yokota, Naoaki Okazaki. Rewriting Pre-Training Data Boosts LLM Performance in Math and Code. arXiv:2505.02881. 2025.
++ **Youmi Ma**, Sakae Mizuki, Kazuki Fujii, Taishi Nakamura, Masanari Ohi, Hinari Shimada, Taihei Shiotani, Koshiro Saito, Koki Maeda, Kakeru Hattori, Takumi Okamoto, Shigeki Ishida, Rio Yokota, Hiroya Takamura, Naoaki Okazaki. Building Instruction-Tuning Datasets from Human-Written Instructions with Open-Weight Large Language Models. arXiv:2503.23714. 2025.
++ Masahiro Kaneko, **Youmi Ma**, Yuki Wata, and Naoaki Okazaki. Sampling-based Pseudo-Likelihood for Membership Inference Attacks. arXiv:2404.11262. 2024.
++ **Youmi Ma**, Tatsuya Hiraoka, and Naoaki Okazaki. Named Entity Recognition and Relation Extraction using Enhanced Table Filling by Contextualized Representations. arXiv:2010.07522. 2020.
 
 
 ## Collaborate Research

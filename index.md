@@ -3,7 +3,7 @@ layout: plain
 title: About Me
 ---
 
-Youmi Ma is an assistant professor at Okazaki Laboratory, Department of Computer Science, School of Computing, [Institute of Science Tokyo](https://www.titech.ac.jp/english). Her research interests include Machine Learning, Natural Language Processing, Konwledge Acquisition and Information Extraction.
+Youmi Ma is an assistant professor at Okazaki Laboratory, Department of Computer Science, School of Computing, [Institute of Science Tokyo](https://www.titech.ac.jp/english). Her research interests include Machine Learning, Natural Language Processing, Knowledge Acquisition and Information Extraction.
 
 ## Education
 
