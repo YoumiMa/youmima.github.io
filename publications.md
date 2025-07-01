@@ -1,7 +1,7 @@
 ## Publications
 
 ### International Conferences
-+ Masahiro Kaneko*, **Youmi Ma\***, Yuki Wata, and Naoaki Okazaki. Sampling-based Pseudo-Likelihood for Membership Inference Attacks. In Findings of the Association for Computational Linguistics: ACL 2025 (ACL), pages (to appear), Vienna, Austria, July 2025 (*equal contribution).
++ Masahiro Kaneko\*, **Youmi Ma\***, Yuki Wata, and Naoaki Okazaki. Sampling-based Pseudo-Likelihood for Membership Inference Attacks. In Findings of the Association for Computational Linguistics: ACL 2025 (ACL), pages (to appear), Vienna, Austria, July 2025 (*equal contribution).
 + **Youmi Ma**, An Wang, and Naoaki Okazaki. Building a Japanese Document-Level Relation Extraction Dataset Assisted by Cross-Lingual Transfer. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), pages 2567–2579, Torino, Italia, May 2024. 
 + **Youmi Ma**, Bhushan Kotnis, Carolin Lawrance, Goran Glavaš, and Naoaki Okazaki. Improving Cross-Lingual Transfer for Open Information Extraction with Linguistic Feature Projection. In Proceedings of the 3rd Workshop on Multi-lingual Representation Learning (MRL), pages 125–138, Singapore, December 2023. 
 + An Wang, Junfeng Jiang, **Youmi Ma**, Ao Liu, and Naoaki Okazaki. Generative Data Augmentation for Aspect Sentiment Quad Prediction. In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM), pages 128–140, Toronto, Canada, July 2023. 
