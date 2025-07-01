@@ -1,4 +1,4 @@
-# Grants, Education, Academic Services
+# Grants, Education, Services
 
 ## Research Grants
 + JSPS KAKENHI Grant Number 25H01137 (PI: Naoaki Okazaki), Apr. 2025 - Mar.2028.
@@ -21,7 +21,7 @@
 + 2017 \| **Discrete Mathematics** (ShanghaiTech University)
 
 
-## Services
+## Academic Services
 
 ### Domestic
 + Program Committee: YANS (2024,2025) 

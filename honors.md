@@ -1,4 +1,4 @@
-# Awards, Invited Talks, Scholarships
+# Awards, Talks, Scholarships
 ## Awards
 + 2025 \| **Excellence Paper Award of 2024 (2024年度論文賞)** 
   + Journal of Natural Language Processing 
