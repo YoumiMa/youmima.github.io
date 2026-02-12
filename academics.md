@@ -1,9 +1,10 @@
-# Grants,Teaching, Services
+# Grants, Teaching, Services
 
 ## Research Grants
-+ JSPS KAKENHI Grant Number 25H01137 (PI: Naoaki Okazaki), Apr. 2025 - Mar.2028.
++ JSPS KAKENHI Grant Number 25H01137 (PI: Naoaki Okazaki), Apr. 2025 -- Mar. 2028.
++ JST ACT-X Grant Number JPMJAX25CN (PI: Youmi Ma), Oct. 2025 -- Mar. 2027.
 
-## Teaching Achievements
+## Teaching
 
 ### Lecturer
 
