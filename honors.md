@@ -1,5 +1,9 @@
 # Awards, Talks, Scholarships
 ## Awards
++ 2026 \| **Committee Special Award (委員特別賞)**
+    + In the 32rd Annual Meeting of The Association for Natural Language Processing (言語処理学会第32回年次大会)	
++ 2025 \| **Sponsorship Award: CyberAgent (スポンサー賞：サイバーエージェント)**
+  + In the 20th Symposium of Young Researcher Association for NLP Studies (第20回言語処理若手シンポジウム)
 + 2025 \| **Excellence Paper Award of 2024 (2024年度論文賞)** 
   + Journal of Natural Language Processing 
 + 2023 \| **Encouragement Award (奨励賞)**
@@ -22,7 +26,7 @@
 	+ Topic: Guiding Attention with Evidence for Improving Document-level Relation Extraction
 
 ## Scholarships
-+ 2019 – now \| **Japanese Government (MEXT) Scholarship**
++ 2019 –  2024 \| **Japanese Government (MEXT) Scholarship**
 	+ Japanese Government (Monbukagakusho)
 	+ Awarded to prospective foreign students who study in higher education institutions in Japan.
 + 2019 \| **Further Education Funding**
