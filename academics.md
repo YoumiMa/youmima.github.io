@@ -3,7 +3,7 @@
 ## Research Grants
 + JSPS KAKENHI Grant Number 26K21306 (PI: Youmi Ma), Apr. 2026 -- Mar. 2029.
 + JSPS KAKENHI Grant Number 25H01137 (PI: Naoaki Okazaki), Apr. 2025 -- Mar. 2028.
-+ JST ACT-X Grant Number JPMJAX25CN (PI: Youmi Ma), Oct. 2025 -- Mar. 2027.
++ JST ACT-X Grant Number JPMJAX25CN (PI: Youmi Ma), Oct. 2025 -- Mar. 2028.
 
 ## Teaching
 
