@@ -1,6 +1,7 @@
 ## Publications
 
 ### International Conferences
++ Sangwhan Moon, Daisuke Oba, **Youmi Ma**, Tatsuya Hiraoka, and Naoaki Okazaki. Beyond Perplexity: UTF-8 Validity in Byte-aware Language Models. In Forty-Third International Conference on Machine Learning (ICML), pages (to appear), Seoul, South Korea, July 2026.
 + **Youmi Ma** and Naoaki Okazaki. From Interpretability to Performance: Optimizing Retrieval Heads for Long-Context Language Models. In Findings of the Association for Computational Linguistics: ACL 2026 (ACL), pages (to appear), San Diego, California, United States, July 2026.
 + Kazuki Fujii, Yukito Tajima, Sakae Mizuki, Masaki Kawamura, Hinari Shimada, Taihei Shiotani, Koshiro Saito, Masanari Oi, Taishi Nakamura, Takumi Okamoto, Shigeki Ishida, Kakeru Hattori, **Youmi Ma**, Hiroya Takamura, Rio Yokota, Jun Sakuma, and Naoaki Okazaki. Rewriting Pre-Training Data Boosts LLM Performance in Math and Code. In The Fourteenth International Conference on Learning Representations (ICLR), Rio de Janeiro, Brazil, April 2026.
 + **Youmi Ma**, Sakae Mizuki, Kazuki Fujii, Taishi Nakamura, Masanari Ohi, Hinari Shimada, Taihei Shiotani, Koshiro Saito, Koki Maeda, Kakeru Hattori, Takumi Okamoto, Shigeki Ishida, Rio Yokota, Hiroya Takamura, Naoaki Okazaki. Building Instruction-Tuning Datasets from Human-Written Instructions with Open-Weight Large Language Models. In Second Conference on Language Modeling (COLM), Montreal, Canada, October 2025. 
